@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer;Learn;Code;Develop;Repeat"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Learn;Code;Develop;Repeat" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
