@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Project**
 
-- 🌱 I’m currently learning **React Js and React Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Web development and Programming**
 
-- 📫 How to reach me **vishalkumarsharma911@gmail.com**
+- 📫 How to reach me **vishalkumar211103@gmail.com**
 
-- ⚡ Fun fact **Programming is Creative**
+- ⚡ Fun fact **Programming is Easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
